@@ -1,0 +1,6 @@
+This is just representation of how gravity works. this simulation made by javascript and canvas in html...
+I commented out the shadow color and shadow blur in JS... shadow blur might give some sort of glow effect but it reduces the performance significantly...
+also... i am simulating with 500 balls so the shadow blur reduces performance dangerously if you reduce the ball count you might see the output of shadow blur which creates the glow effect
+
+the demonstration is linked below :
+https://youtu.be/cl5DvCz0WiM?si=TQ8H5u1fWq7be4Xv
